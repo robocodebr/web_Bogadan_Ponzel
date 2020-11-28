@@ -1,0 +1,22 @@
+body {
+    background: rgb(117, 18, 128);
+}
+
+#heading1{
+
+    font-size: large;
+    color: brown;
+}
+
+
+.text{
+    
+    border: 1px tomato;
+    padding: 10px;
+    margin: 122px;
+    background: rgb(160, 7, 127);
+    display: inline-block;
+    display: none;
+    width: 45%;
+    
+}
